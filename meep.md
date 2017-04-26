@@ -5,13 +5,13 @@
 > **!youtube**  
 Search for videos on Youtube
 
-> `!urban`  
+## !urban  
 Search for slang words on Urban Dictionnary
 
-> `!pokemon`  
+### !pokemon  
 Search for your favorite pokémons
 
-> `!twitch`  
+# !twitch  
 Search for your favorite twitch streamers
 
 > `!imgur`  
