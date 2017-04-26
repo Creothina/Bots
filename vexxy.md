@@ -8,8 +8,8 @@ A multi-purpose bot for discord (mainly music), Help server: VzbRGWF
 
 # Info
 
-## +invite  
-## +serverinfo  
+### +invite  
+### +serverinfo  
 
 Misc
 
