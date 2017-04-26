@@ -6,13 +6,10 @@
 
 A multi-purpose bot for discord (mainly music), Help server: VzbRGWF
 
-Info
+# Info
 
-`+invite`  
-`+serverinfo`  
-`+shardinfo`  
-`+stats`  
-`+userinfo`  
+## +invite  
+## +serverinfo  
 
 Misc
 
@@ -31,30 +28,6 @@ Misc
 `+wolfram`  
 `+xkcd`  
 `+yomamma`  
-
-Music
-
-`+autoplay`  
-`+clearqueue`  
-`+disconnect`  
-`+join`  
-`+np`  
-`+pause`  
-`+play`  
-`+queue`  
-`+resume`  
-`+shuffle`  
-`+skip`  
-
-Settings
-
-`+accessrole`  
-`+channeltoggle`  
-`+farewell`  
-`+greeting`  
-`+logchannel`  
-`+mentionspam`  
-`+prefix`  
 
 Type `+help <command>` for more info on a command.  
 You can also type `+help <category>` for more info on a category.
