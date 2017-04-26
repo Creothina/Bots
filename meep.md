@@ -1,26 +1,31 @@
 [Back to overview](/README.md)
 
 # Meep
-
-> **!youtube**  
+  
+  
+  
+  
+  
+  
+# !youtube  
 Search for videos on Youtube
 
-## !urban  
+# !urban  
 Search for slang words on Urban Dictionnary
 
-### !pokemon  
+# !pokemon  
 Search for your favorite pokémons
 
 # !twitch  
 Search for your favorite twitch streamers
 
-> `!imgur`  
+# !imgur  
 Search for the dankest memes images on imgur
 
-> `!manga`  
+# !manga  
 Search for your favorite mango from MyAnimeList
 
-> `!anime`  
+# !anime  
 Search for your favorite animu from MyAnimeList(edited)
 
 [Back to overview](/README.md)
