@@ -14,35 +14,35 @@ A multi-purpose bot for discord (mainly music), Help server: VzbRGWF
 
 # Misc
 
-> +ascii  
+- +ascii  
 
-> +ball  
+- +ball  
 
-> +bob  
+- +bob  
 
-> +botlist  
+- +botlist  
 
-> +cat  
+- +cat  
 
-> +chucknorris  
+- +chucknorris  
 
-> +emojify  
+- +emojify  
 
-> +eyes  
+- +eyes  
 
-> +fact  
+- +fact  
 
-> +illegal  
+- +illegal  
 
-> +invited  
+- +invited  
 
-> +ping  
+- +ping  
 
-> +wolfram  
+- +wolfram  
 
-> +xkcd  
+- +xkcd  
 
-> +yomamma  
+- +yomamma  
 
 Type `+help <command>` for more info on a command.  
 You can also type `+help <category>` for more info on a category.
