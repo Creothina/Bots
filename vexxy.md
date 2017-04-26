@@ -8,9 +8,9 @@ A multi-purpose bot for discord (mainly music), Help server: VzbRGWF
 
 # Info
 
-> +invite  
+- +invite  
 
-> +serverinfo  
+- +serverinfo  
 
 # Misc
 
