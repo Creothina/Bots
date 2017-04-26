@@ -2,7 +2,7 @@
 
 # Meep
 
-> `!youtube`  
+> **!youtube**  
 Search for videos on Youtube
 
 > `!urban`  
