@@ -4,9 +4,6 @@
   
 ------
   
-  
-  
-  
 # !youtube  
 Search for videos on Youtube
 
@@ -26,6 +23,6 @@ Search for the dankest memes images on imgur
 Search for your favorite mango from MyAnimeList
 
 # !anime  
-Search for your favorite animu from MyAnimeList(edited)
+Search for your favorite animu from MyAnimeList
 
 [Back to overview](/README.md)
