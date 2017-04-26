@@ -9,24 +9,39 @@ A multi-purpose bot for discord (mainly music), Help server: VzbRGWF
 # Info
 
 > +invite  
+
 > +serverinfo  
 
 # Misc
 
 > +ascii  
+
 > +ball  
+
 > +bob  
+
 > +botlist  
+
 > +cat  
+
 > +chucknorris  
+
 > +emojify  
+
 > +eyes  
+
 > +fact  
+
 > +illegal  
+
 > +invited  
+
 > +ping  
+
 > +wolfram  
+
 > +xkcd  
+
 > +yomamma  
 
 Type `+help <command>` for more info on a command.  
